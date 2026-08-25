@@ -9,7 +9,7 @@ Agustín D’albenzio
 Juan Segundo Rossi
 
  Descripción Corta del Videojuego
-"Musical Note" es un videojuego 2D que combina la exploración e interconexión de escenarios estilo "Metroidvania" con la progresión, rejugabilidad y pérdida de inventario al morir de un "Rogue-lite". El juego transcurre en una torre ambientada en distintos géneros musicales, donde cada piso presenta minijefes y un jefe principal inspirado en un artista musical.
+"Musical Note" es un videojuego 2D que combina la exploración e interconexión de escenarios estilo "Metroidvania" con la progresión, rejugabilidad y pérdida de inventario al morir de un "Rogue-like". El juego transcurre en una torre ambientada en distintos géneros musicales, donde cada piso presenta minijefes y un jefe principal inspirado en un artista musical.
 
 
  Tecnologías Principales
